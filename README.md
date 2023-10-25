@@ -8,14 +8,4 @@
 -->
 This is demo project
 
-1
-
-feature 1
-
-feature 5
-
-test3
-
-测试第一条
-
-test2
+test4
