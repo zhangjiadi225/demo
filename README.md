@@ -14,7 +14,7 @@ feature 1
 
 feature 5
 
-feature 6
+test3
 
 测试第一条
 
